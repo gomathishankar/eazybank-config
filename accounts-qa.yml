@@ -1,0 +1,10 @@
+build:
+  version: "1.2"
+accounts:
+  message: "Welcome to Eazybank account QA Api"
+  contactDetails:
+    name: "Gs - QA"
+    email: "Gs@eazybank.com"
+  onCallSupport:
+    -(111)122-222
+    -(111)333-333
