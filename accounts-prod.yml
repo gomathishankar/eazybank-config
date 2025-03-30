@@ -1,7 +1,7 @@
 build:
-  version: "1.3"
+  version: "1.4"
 accounts:
-  message: "Welcome to Eazybank account Production Demo Api"
+  message: "Welcome to Eazybank Demo account Production Api"
   contactDetails:
     name: "Gs - PROD"
     email: "GG@eazybank.com"
