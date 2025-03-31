@@ -1,7 +1,7 @@
 build:
   version: "1.2"
 cards:
-  message: "Welcome to Card API information Prod"
+  message: "Welcome to Card API information Prod - webhook setup"
   contactDetails:
     name: "GS cards - Dev"
     email: "Gs@card.dev"
