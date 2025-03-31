@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 loans:
-  message: "Welcome to the loans API of EazyBank prod"
+  message: "Welcome to the loans API of EazyBank prod - webhook setup"
   contactDetails:
     name: "GS - Prod"
     email: "gs@loan.eazybank"
