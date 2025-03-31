@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 loans:
-  message: "Welcome to the loans API of EazyBank production"
+  message: "Welcome to the loans API of EazyBank prod"
   contactDetails:
     name: "GS - Prod"
     email: "gs@loan.eazybank"
