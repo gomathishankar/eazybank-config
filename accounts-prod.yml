@@ -1,7 +1,7 @@
 build:
   version: "1.4"
 accounts:
-  message: "Welcome to Eazybank Demo account Prod Api - webhook setup"
+  message: "Welcome to Eazybank Demo account Prod Api - Webhook setup"
   contactDetails:
     name: "Gs - PROD"
     email: "GG@eazybank.com"
