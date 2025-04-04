@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to Eazybank account - Development Env"
+  message: "Welcome to Eazybank account - Development Environment"
   contactDetails:
     name: "Gs - Developer"
     email: "Gs@eazybank.com"
