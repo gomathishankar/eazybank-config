@@ -2,7 +2,7 @@ build:
   version: "1.4"
 
 loans:
-  message: "Welcome to the loans API of EazyBank development env"
+  message: "Welcome to the loans API of EazyBank development environment"
   contactDetails:
     name: "GS - Dev"
     email: "gs@loan.eazybank"
