@@ -1,7 +1,7 @@
 build:
   version: "1.4"
 cards:
-  message: "Welcome to Card API information Develop env"
+  message: "Welcome to Card API information Develop"
   contactDetails:
     name: "GS cards - Dev"
     email: "Gs@card.dev"
